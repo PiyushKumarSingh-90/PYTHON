@@ -1,2 +1,2 @@
-# c-plus-plus
+PYTHON
 A repository of my college projects 
